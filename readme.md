@@ -9,11 +9,14 @@ Purchase PCB online: https://oshpark.com/shared_projects/Dj41HkF0
 
 Donate: https://paypal.me/zn2stereo
 
+<img width="400" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/complete-board.jpg"> <img width="400" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/complete-board-top.jpg">
 
 
 ## Installation
 
 For ZN-2 games, the stereo/mono switch next to the volume pot must be set to stereo. The game also needs to be set to stereo in the test menu.
+
+<img width="640" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/installation.jpg">
 
 ## Compatibility
 
