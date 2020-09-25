@@ -19,6 +19,8 @@ To assemble the board, soldering experience is needed. Parts in the BOM must be 
 
 For ZN-2 games, the stereo/mono switch next to the volume pot must be set to stereo. The game also needs to be set to stereo in the test menu.
 
+The BOM includes M3 standoff and screws. Depending on your PCB standoffs, these might not be the right size, please double check!
+
 <img width="640" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/installation.jpg">
 
 ## Compatibility
