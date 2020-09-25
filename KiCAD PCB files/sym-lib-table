@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Audio_Transformer)(type Legacy)(uri ${KIPRJMOD}/Audio_Transformer.lib)(options "")(descr ""))
+  (lib (name ZN2_Stereo)(type Legacy)(uri ${KIPRJMOD}/ZN2_Stereo.lib)(options "")(descr ""))
+)

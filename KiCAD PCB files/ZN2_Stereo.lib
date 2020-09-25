@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Dual_AudioJack1_Ground_Switch
+#
+DEF Dual_AudioJack1_Ground_Switch J 0 20 Y Y 1 F N
+F0 "J" 0 350 50 H V C CNN
+F1 "Dual_AudioJack1_Ground_Switch" 0 250 50 H V C CNN
+F2 "" 550 -100 50 H I C CNN
+F3 "" 550 -100 50 H I C CNN
+$FPLIST
+ Jack*
+$ENDFPLIST
+DRAW
+S -150 0 -100 -100 0 1 10 F
+S -100 150 100 -100 0 1 10 f
+S -150 -300 -100 -400 1 1 10 F
+S -100 -150 100 -400 1 1 10 f
+P 5 0 1 10 100 100 -25 100 -25 0 -50 -25 -75 0 N
+P 2 1 1 0 20 -210 30 -230 N
+P 2 1 1 0 20 90 30 70 N
+P 2 1 1 0 50 -300 100 -300 N
+P 2 1 1 0 50 0 100 0 N
+P 4 1 1 0 50 -300 20 -300 20 -210 10 -230 N
+P 4 1 1 0 50 0 20 0 20 90 10 70 N
+P 5 1 1 10 100 -200 -25 -200 -25 -300 -50 -325 -75 -300 N
+X ~ L+ 200 -200 100 L 50 50 1 1 P
+X ~ L- 200 -400 100 L 50 50 1 1 P
+X ~ R+ 200 100 100 L 50 50 1 1 P
+X ~ R- 200 -100 100 L 50 50 1 1 P
+X ~ T1 200 0 100 L 50 50 1 1 P
+X ~ T2 200 -300 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

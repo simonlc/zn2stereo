@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "zn-2 stereo breakout parts")(type KiCad)(uri "${KIPRJMOD}/zn-2 stereo breakout parts.pretty")(options "")(descr ""))
+)
