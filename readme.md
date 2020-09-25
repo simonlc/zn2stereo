@@ -1,6 +1,6 @@
 # Capcom ZN-2 stereo breakout board
 
-The ZN-2 stereo breakout board is a custom PCB that connects to a ZN-2 audio header and provide line level stereo output. The attenuation circuit is based on the Sanwa VC-J (http://www.neo-geo.com/forums/showthread.php?172861-A-different-attenuation-circuit)[documented here].
+The ZN-2 stereo breakout board is a custom PCB that connects to a ZN-2 audio header and provide line level stereo output. The attenuation circuit is based on the Sanwa VC-J [documented here](http://www.neo-geo.com/forums/showthread.php?172861-A-different-attenuation-circuit).
 
 It's mounted by a single standoff, and is supported by the connector that sits on the stereo header.
 
