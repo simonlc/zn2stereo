@@ -4,10 +4,10 @@ The ZN-2 stereo breakout board is a custom PCB that connects to a ZN-2 audio hea
 
 It's mounted by a single standoff, and is supported by the connector that sits on the stereo header.
 
-Online BOM: https://octopart.com/bom-tool/YipwlKb2
-Purchase PCB online: https://oshpark.com/shared_projects/Dj41HkF0
+- Online BOM: https://octopart.com/bom-tool/YipwlKb2
+- Purchase PCB online: https://oshpark.com/shared_projects/Dj41HkF0
 
-Donate: https://paypal.me/zn2stereo
+### Donate: https://paypal.me/zn2stereo
 
 <img width="400" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/complete-board.jpg"> <img width="400" src="https://raw.githubusercontent.com/simonlc/zn2stereo/master/pictures/complete-board-top.jpg">
 
