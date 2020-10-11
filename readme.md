@@ -29,9 +29,9 @@ This board may be compatible with other ZN-2 style hardware.
 
 | Hardware           | Compatibility |
 | ------------------ | ------------- |
-| Taito ZN-2         | ✅  Working    |
+| Capcom ZN-2        | ✅  Working    |
+| Capcom ZN-1        | ✅  Working    |
 | Taito G-Net        | ❓  Not tested |
-| Capcom ZN-1        | ❓  Not tested |
 | Tecmo TPS          | ❓  Not tested |
 | Taito FX-1A System | ❓  Not tested |
 | Taito FX-1B System | ❓  Not tested |
